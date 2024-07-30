@@ -1,1 +1,2 @@
 nginx
+vulhub/rocketmq:5.1.0
