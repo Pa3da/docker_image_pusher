@@ -1,1 +1,1 @@
-vulhub/rockermq:5.1.0 
+nginx
