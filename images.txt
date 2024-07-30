@@ -1,2 +1,3 @@
 nginx
 vulhub/rocketmq:5.1.0
+vulhub/ofbiz
